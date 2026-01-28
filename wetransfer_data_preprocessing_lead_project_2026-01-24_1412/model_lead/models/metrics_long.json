@@ -1,0 +1,7 @@
+{
+  "rmse_test": 1.846908866787172,
+  "n_train_rows": 80000,
+  "n_test_rows": 20000,
+  "n_components": 50,
+  "skipped_cold_start": 31
+}
